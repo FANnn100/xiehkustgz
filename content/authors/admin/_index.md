@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sihong XIE
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Sihong
+last_name: XIE
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: AI Thrust, Information Hub, HKUST(GZ)
+    url: 'https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -72,6 +72,8 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before joining HKUST-GZ, I was an Assistant Professor from 2016 Aug - 2023 May, and then a tenured Associate Professor in 2023 May
+at the Computer Science and Engineering Department at Lehigh University, Pennsylvania, USA.
+I obtained my PhD (2010-2016) from the Department of Computer Science at University of Illinois at Chicago, under the supervision of Prof.Philip S. Yu.
+I received my Bachelor's and Master's degrees from the School of Software Engineering at Sun Yat-Sen University in 2004 and 2008, respectively.
+I am an NSF CAREER awardee (2022). I am currently on the executive committee of ACM SIGSPATIAL China.
