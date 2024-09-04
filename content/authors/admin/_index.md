@@ -18,24 +18,24 @@ organizations:
     url: 'https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include responsible AI, safe RL and robotics, and optimization.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Responsible AI
+  - Safe RL and Robotics
+  - Optimization
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD
+      institution: Department of Computer Science, University of Illinois at Chicago
+      year: 2016
+    - course: Master
+      institution: Sun Yat-Sen University
       year: 2008
+    - course: Bachelor
+      institution: Sun Yat-Sen University
+      year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -73,7 +73,7 @@ user_groups:
 ---
 
 Before joining HKUST-GZ, I was an Assistant Professor from 2016 Aug - 2023 May, and then a tenured Associate Professor in 2023 May
-at the Computer Science and Engineering Department at Lehigh University, Pennsylvania, USA.
-I obtained my PhD (2010-2016) from the Department of Computer Science at University of Illinois at Chicago, under the supervision of Prof.Philip S. Yu.
-I received my Bachelor's and Master's degrees from the School of Software Engineering at Sun Yat-Sen University in 2004 and 2008, respectively.
-I am an NSF CAREER awardee (2022). I am currently on the executive committee of ACM SIGSPATIAL China.
+at the Computer Science and Engineering Department at Lehigh University, Pennsylvania, USA.<br>
+I obtained my PhD (2010-2016) from the Department of Computer Science at University of Illinois at Chicago, under the supervision of Prof.Philip S. Yu.<br>
+I received my Bachelor's and Master's degrees from the School of Software Engineering at Sun Yat-Sen University in 2004 and 2008, respectively.<br>
+I am an NSF CAREER awardee (2022). I am currently on the executive committee of ACM SIGSPATIAL China.<br>
