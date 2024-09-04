@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Professors
 ---
 
 Before joining HKUST-GZ, I was an Assistant Professor from 2016 Aug - 2023 May, and then a tenured Associate Professor in 2023 May
