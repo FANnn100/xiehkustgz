@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: phd name
 
 # Full name (for SEO)
 first_name: Alice
@@ -8,37 +8,37 @@ last_name: Wu
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - phd_0
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: HKUST(GZ)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Your research interest.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - interest A
+  - interest B
+  - interest C
 
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
+      institution: XXXX University
       year: 2012
     - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      institution: XXX
       year: 2009
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      institution: XX
       year: 2008
 
 # Social/Academic Networking
@@ -74,7 +74,4 @@ user_groups:
 
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+This is a short self intro of one PhD student of our group.
