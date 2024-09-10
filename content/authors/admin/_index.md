@@ -46,7 +46,7 @@ social:
     icon_pack: fas
     link: 'mailto:test@example.org'
   - icon: "custom/xiaohongshu"
-    icon_pack: fab
+    icon_pack: custom
     link: https://twitter.com/GeorgeCushen
   - icon: custom/xiaohongshu
     icon_pack: fab
@@ -67,6 +67,9 @@ social:
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: weixin
     icon_pack: fab
     link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
