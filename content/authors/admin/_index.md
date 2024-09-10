@@ -45,8 +45,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:test@example.org'
-  - icon: "custom/xiaohongshu"
-    icon_pack: fab
+  - icon: "custom/xiaohongshu.svg"
+    # icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
