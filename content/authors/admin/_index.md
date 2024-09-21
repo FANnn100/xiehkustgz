@@ -46,10 +46,6 @@ social:
     icon_pack: fas
     link: 'mailto:test@example.org'
   - icon: "custom/xiaohongshu"
-    icon_pack: "custom"
-    link: https://twitter.com/GeorgeCushen
-  - icon: custom/xiaohongshu
-    icon_pack: "custom"
     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
