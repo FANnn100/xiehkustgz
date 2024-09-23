@@ -28,7 +28,7 @@ interests:
 education:
   courses:
     - course: PhD
-      institution: AI Thrust, University of Illinois at Chicago
+      institution: AI Thrust, HKUST(GZ)
       year: 2024
 
 
@@ -49,8 +49,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Krystal9917
-  - icon: homepage
-    icon_pack: fab
+  - icon: user
+    icon_pack: fas
     link: https://krystal9917.github.io/
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -68,12 +68,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Professors
+  - PhD Students
 ---
 
-Before joining HKUST-GZ, I was an Assistant Professor from 2016 Aug - 2023 May, and then a tenured Associate Professor in 2023 May
-at the Computer Science and Engineering Department at Lehigh University, Pennsylvania, USA.<br>
-I obtained my PhD (2010-2016) from the Department of Computer Science at University of Illinois at Chicago, under the supervision of Prof.Philip S. Yu.<br>
-I received my Bachelor's and Master's degrees from the School of Software Engineering at Sun Yat-Sen University in 2004 and 2008, respectively.<br>
-I am an NSF CAREER awardee (2022). I am currently on the executive committee of ACM SIGSPATIAL China.<br>
+Please click the 'user' icon to enter my web.
 
