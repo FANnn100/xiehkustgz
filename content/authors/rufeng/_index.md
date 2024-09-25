@@ -6,10 +6,6 @@ title: Rufeng CHEN
 first_name: Rufeng
 last_name: CHEN
 
-# Username (this should match the folder name)
-authors:
-  - rufeng
-
 # Is this the primary user of the site?
 superuser: false
 
