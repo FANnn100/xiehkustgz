@@ -1,14 +1,14 @@
 ---
 # Display name
-title: phd name
+title: Rufeng CHEN
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Rufeng
+last_name: CHEN
 
 # Username (this should match the folder name)
 authors:
-  - phd_0
+  - rufeng
 
 # Is this the primary user of the site?
 superuser: false
@@ -35,32 +35,27 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: XXXX University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: XXX
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: XX
-      year: 2008
+      institution: Info Hub, HKUST(GZ)
+      year: 2024
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: user
+    icon_pack: fas
+    link: https://chenrf1121.github.io/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:rchen514@connect.hkust-gz.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=0paKpRsAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://chenrf1121.github.io/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
