@@ -12,6 +12,9 @@ superuser: False
 # Role/position
 role: PhD Student
 
+# Homepage
+homepage: 'https://rxu0112.github.io/'
+
 # Organizations/Affiliations
 organizations:
   - name: AI Thrust, Information Hub, HKUST(GZ)
