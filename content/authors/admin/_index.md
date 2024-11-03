@@ -12,6 +12,9 @@ superuser: true
 # Role/position
 role: Associate Professor
 
+# Homepage
+homepage: 'https://sihongxie.github.io/'
+
 # Organizations/Affiliations
 organizations:
   - name: AI Thrust, Information Hub, HKUST(GZ)
