@@ -52,9 +52,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/rxu0112
-  - icon: "custom/xiaohongshu"
-    icon_pack: custom
-    link: https://twitter.com/GeorgeCushen
+  # - icon: "custom/xiaohongshu"
+  #   icon_pack: custom
+  #   link: https://twitter.com/GeorgeCushen
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
