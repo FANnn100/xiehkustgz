@@ -19,10 +19,12 @@ sections:
           - Administration
           - Visitors
           - Alumni
-      sort_by: Params.last_name
+#      sort_by: Params.last_name
+      sort_by: Grade
       sort_ascending: true
     design:
       show_interests: false
       show_role: true
+#      social是管理icons的
       show_social: true
 ---
