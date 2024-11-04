@@ -47,10 +47,10 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://nips.cc/virtual/2024/poster/94771'
 url_code: ''
 url_dataset: ''
-url_poster: 'https://nips.cc/virtual/2024/poster/94771'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
