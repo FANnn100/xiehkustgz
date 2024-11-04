@@ -39,7 +39,7 @@ abstract: Uncertainty is critical to reliable decision-making with machine learn
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [survey, graph, Uncertainty]
+tags: [Causal, Distribution]
 
 # Display this page in the Featured widget?
 featured: true
