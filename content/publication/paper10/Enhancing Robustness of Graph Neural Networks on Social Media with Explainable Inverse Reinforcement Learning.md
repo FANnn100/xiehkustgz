@@ -47,7 +47,7 @@ featured: true
 url_pdf: 'https://neurips.cc/virtual/2024/poster/92939'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://neurips.cc/virtual/2024/poster/92939'
 url_project: ''
 url_slides: ''
 url_source: ''
