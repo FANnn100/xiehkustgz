@@ -15,6 +15,8 @@ role: PhD Student
 # Homepage
 homepage: 'https://zhangzhaofan.github.io/'
 
+grade: 24
+
 # Organizations/Affiliations
 organizations:
   - name: AI Thrust, Information Hub, HKUST(GZ)

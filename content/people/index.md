@@ -20,7 +20,7 @@ sections:
           - Visitors
           - Alumni
 #      sort_by: Params.last_name
-      sort_by: Grade
+      sort_by: grade
       sort_ascending: true
     design:
       show_interests: false

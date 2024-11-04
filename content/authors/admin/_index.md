@@ -15,6 +15,8 @@ role: Associate Professor
 # Homepage
 homepage: 'https://sihongxie.github.io/'
 
+# grade: 0
+
 # Organizations/Affiliations
 organizations:
   - name: AI Thrust, Information Hub, HKUST(GZ)

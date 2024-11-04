@@ -15,6 +15,8 @@ role: PhD Student
 # Homepage
 homepage: 'https://rxu0112.github.io/'
 
+grade: 23
+
 # Organizations/Affiliations
 organizations:
   - name: AI Thrust, Information Hub, HKUST(GZ)
